@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bhavesh</h1>
-<h3 align="center">I am a frontend web developer.</h3>
+<h3 align="center">I am a frontend developer from India</h3>
+
+- 📫 How to reach me **bhaveshchoudhary9211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@bhavesh19151574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bhavesh19151574" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavesh-choudhary-b63901221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavesh-choudhary-b63901221/" height="30" width="40" /></a>
 <a href="https://instagram.com/bhaveshhhh_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaveshhhh_001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/right master" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="right master" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@bhaveshchoudhar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhaveshchoudhar2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
