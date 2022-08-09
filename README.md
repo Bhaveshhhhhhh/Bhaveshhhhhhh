@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavesh</h1>
-<h3 align="center">I am a frontend developer from India</h3>
+<h3 align="center">I am a frontend web developer from India</h3>
 
 - 📫 How to reach me **bhaveshchoudhary9211@gmail.com**
 
